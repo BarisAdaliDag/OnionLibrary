@@ -1,4 +1,4 @@
-﻿using OnionLibrary.Domain.Enum;
+﻿using OnionLibrary.Domain.Enums;
 using OnionLibrary.Domain.Interfaces;
 using System;
 using System.Collections.Generic;

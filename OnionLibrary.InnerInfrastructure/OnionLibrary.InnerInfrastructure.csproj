@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OnionLibrary.Application\OnionLibrary.Application.csproj" />
+    <ProjectReference Include="..\OnionLibrary.Contract\OnionLibrary.Contract.csproj" />
+    <ProjectReference Include="..\OnionLibrary.Domain\OnionLibrary.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

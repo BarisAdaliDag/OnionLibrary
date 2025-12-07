@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OnionLibrary.Domain.Enum
+namespace OnionLibrary.Domain.Enums
 {
     public enum DataStatus
     {
